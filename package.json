@@ -1,0 +1,17 @@
+{
+  "name": "bun_first",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stricjs/app": "^1.0.0-rc.34",
+    "@stricjs/router": "^5.0.6",
+    "@stricjs/utils": "^2.0.7",
+    "chalk": "^5.3.0"
+  }
+}
